@@ -10,7 +10,7 @@
     <!-- version should MATCH as closely as possible with the underlying software -->
     <!-- Is the version a prerelease of a version? https://docs.nuget.org/create/versioning#creating-prerelease-packages -->
     <!-- Note that unstable versions like 0.0.1 can be considered a released version, but it's possible that one can release a 0.0.1-beta before you release a 0.0.1 version. If the version number is final, that is considered a released version and not a prerelease. -->
-    <version>2019.35.5.0</version>
+    <version>2019.46.6.0</version>
     <packageSourceUrl>https://github.com/n3rd4i/teslacamviewer</packageSourceUrl>
     <!-- owners is a poor name for maintainers of the package. It sticks around by this name for compatibility reasons. It basically means you. -->
     <owners>n3rd4i</owners>
@@ -21,14 +21,14 @@
     <title>teslacamviewer (Install)</title>
     <authors>NateMccomb</authors>
     <!-- projectUrl is required for the community feed -->
-    <projectUrl>https://github.com/NateMccomb/TeslaCamViewer</projectUrl>
+    <projectUrl>https://github.com/NateMccomb/TeslaCamViewerII</projectUrl>
     <iconUrl>https://cdn.statically.io/img/icons.iconarchive.com/icons/zyotism/2001-space-odyssey/128/HAL-9000-icon.png</iconUrl>
     <!-- <copyright>Year Software Vendor</copyright> -->
     <!-- If there is a license Url available, it is required for the community feed -->
-    <licenseUrl>https://github.com/NateMccomb/TeslaCamViewer/blob/master/LICENSE</licenseUrl>
+    <licenseUrl>https://github.com/NateMccomb/TeslaCamViewerII/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/NateMccomb/TeslaCamViewer</projectSourceUrl>
-    <docsUrl>https://github.com/NateMccomb/TeslaCamViewer/blob/master/README.md</docsUrl>
+    <projectSourceUrl>https://github.com/NateMccomb/TeslaCamViewerII</projectSourceUrl>
+    <docsUrl>https://github.com/NateMccomb/TeslaCamViewerII/blob/master/README.md</docsUrl>
     <!--<mailingListUrl></mailingListUrl>-->
     <!--<bugTrackerUrl></bugTrackerUrl>-->
     <tags>teslacamviewer tesla camviewer</tags>
