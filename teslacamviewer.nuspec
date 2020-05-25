@@ -18,7 +18,7 @@
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
-    <title>teslacamviewer (Install)</title>
+    <title>TeslaCam Viewer II</title>
     <authors>NateMccomb</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://github.com/NateMccomb/TeslaCamViewerII</projectUrl>
